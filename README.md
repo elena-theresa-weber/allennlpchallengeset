@@ -17,6 +17,8 @@ The capabilities are as follows
 
 For fairness a test on Western vs Non-Western names has been created. The active and passive challenge sets additionally include robustness tests. 
 
+If more information on the challenge sets is necessary, feel free to contact me or read my report. 
+
 ## Datasets
 The folder contains the created challenge sets. They are created while running the notebooks. The files are stored as a txt file in a folder called 'datasets'. 
 
