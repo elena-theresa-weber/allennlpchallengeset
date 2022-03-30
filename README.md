@@ -1,5 +1,5 @@
 # AllenNLP Challengeset
-The project is carried out in order to test the performance of Semantic Role Labeling for the course NLP Technology taught by Pia Sommerauer at VU Amsterdam. 
+The project is carried out by Elena Weber in order to test the performance of Semantic Role Labeling for the course NLP Technology taught by Pia Sommerauer at VU Amsterdam. 
 
 ## Folder structure 
 * `challenge_sets`
