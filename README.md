@@ -26,4 +26,4 @@ The folder contains the created challenge sets. They are created while running t
 In results, the results of the CheckList on the datasets can be found. A fail rate indicates the performance of the Semantic Role Labeling. The files are stored as a csv file in a folder called 'results'. 
 
 ## Models
-For this report the `structured-prediction-srl` and `structured-prediction-srl-bert` by AllenNLP are being used. 
+For this report the BiLSTM-based `structured-prediction-srl` and BERT-based `structured-prediction-srl-bert` by AllenNLP are being used. 
