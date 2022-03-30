@@ -15,10 +15,13 @@ The capabilities are as follows
 * Gardenpath Sentence
 * Transitive, Intransitive Verb 
 
-For fairness a test on Western vs Non-Western names has been created. 
+For fairness a test on Western vs Non-Western names has been created. The active and passive challenge sets additionally include robustness tests. 
 
 ## Datasets
 The folder contains the created challenge sets. They are created while running the notebooks. The files are stored as a txt file in a folder called 'datasets'. 
 
 ## Results
 In results, the results of the CheckList on the datasets can be found. A fail rate indicates the performance of the Semantic Role Labeling. The files are stored as a csv file in a folder called 'results'. 
+
+## Models
+For this report the `structured-prediction-srl` and `structured-prediction-srl-bert` by AllenNLP are being used. 
