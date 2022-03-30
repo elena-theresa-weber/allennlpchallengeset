@@ -15,7 +15,7 @@ The capabilities are as follows
 * Gardenpath Sentence
 * Transitive, Intransitive Verb 
 
-For fairness a test on Western vs Non-Western names has been created. The active and passive challenge sets additionally include robustness tests. 
+For fairness a test on Western vs Non-Western names has been created. The active and passive challenge sets additionally include robustness tests concerning `negation` and `verb variation`. 
 
 If more information on the challenge sets is necessary, feel free to contact me or read my report. 
 
