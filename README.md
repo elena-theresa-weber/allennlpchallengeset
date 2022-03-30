@@ -2,9 +2,9 @@
 The project is carried out in order to test the performance of Semantic Role Labeling for the course NLP Technology taught by Pia Sommerauer at VU Amsterdam. 
 
 ## Folder structure 
-*`challenge_sets`
-*`datasets`
-*`results`
+* `challenge_sets`
+* `datasets`
+* `results`
 
 ## Challenge_sets
 The folder contains the notebooks used to create the challenge sets. In total there are 14 different notebooks but only 5 capabilities are being tested plus a fairness test. The notebooks are separated by the models that are used to create the semantic role labeling. 
