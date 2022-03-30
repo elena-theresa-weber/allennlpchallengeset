@@ -1,0 +1,9 @@
+# Requirements
+The notebooks are run on Python 3.9, it is recommended to use a similar version. 
+Additionally, AllenNLP does not work on Windows based systems. Thus it can only be used on Ubuntu-Linux and IOS. 
+
+Packages
+pip install allennlp
+pip install allennlp.models 
+pip install checklist
+pip install csv 
