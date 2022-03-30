@@ -23,7 +23,7 @@ If more information on the challenge sets is necessary, feel free to contact me 
 The folder contains the created challenge sets. They are created while running the notebooks. The files are stored as a txt file in a folder called 'datasets'. 
 
 ## Results
-In results, the results of the CheckList on the datasets can be found. A fail rate indicates the performance of the Semantic Role Labeling. The files are stored as a csv file in a folder called 'results'. 
+In results, the output of the CheckList on the datasets can be found. A fail rate indicates the performance of the Semantic Role Labeling. The files are stored as a csv file in a folder called 'results'. 
 
 ## Models
 For this report the BiLSTM-based `structured-prediction-srl` and BERT-based `structured-prediction-srl-bert` by AllenNLP are being used. 
